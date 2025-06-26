@@ -33,7 +33,7 @@ function Arena() {
           {/* Crad 2  of bottom left */}
           <div className="relative overflow-hidden rounded-3xl border border-white aspect-[4.5/4] transform transition-transform  hover:scale-105  duration-300 mt-7">
             <video
-              src="public\videos\bento-card2.mp4"
+              src="/videos/bento-card2.mp4"
               autoPlay
               muted
               loop
@@ -57,7 +57,7 @@ function Arena() {
                 muted
                 loop
                 playsInline
-                src="public\videos\bento-card3.mp4"
+                src="/videos/bento-card3.mp4"
               ></video>
               <h1 className="absolute bottom-2 left-1/2 trasfrom -translate-x-1/2 z-10 font-extrabold text-2xl">
                 Scoriox
@@ -71,7 +71,7 @@ function Arena() {
                 muted
                 loop
                 playsInline
-                src="public\videos\bento-card4.mp4"
+                src="/videos/bento-card4.mp4"
               ></video>
               <h1 className="absolute bottom-2 left-1/2 trasfrom -translate-x-1/2 z-10 font-extrabold text-2xl">
                 Floralynx
@@ -85,7 +85,7 @@ function Arena() {
                 muted
                 loop
                 playsInline
-                src="public\videos\bento-card5.mp4"
+                src="/videos/bento-card5.mp4"
               ></video>
               <h1 className="absolute bottom-2 left-1/2 trasfrom -translate-x-1/2 z-10 font-extrabold text-2xl">
                 Titanor
@@ -94,7 +94,7 @@ function Arena() {
           </div>
           {/* card 6 bottom large card */}
           <div className="relative overflow-hidden rounded-3xl border border-white aspect-[16/9] md:col-span-2 transform transition-transform duration-300 hover:scale-105">
-            <img src="public\images\bento-card5.png" alt="" srcset="" />
+            <img src="/images/bento-card5.png" alt="" srcset="" />
             <button className="absolute bottom-0 h-12 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400 text-nowrap"  >
               <i class="bx bx-link-external"></i>Buy Now
             </button>
