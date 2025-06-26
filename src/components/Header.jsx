@@ -38,7 +38,7 @@ function Header() {
           href="#"
           className="relative text-lg hover:text-purple-300 transition-colors duration-300 after:content-[''] after:absolute after:w-0 after:h-0.5 after:bg-purple-400 after:left-0 after:bottom-0 after:transition-all hover:after:w-full text-nowrap"
         >
-          <i class="bx bx-user-circle"></i> Avatar
+          <i class="bx bx-user-circle"></i> User
         </a>
         <a
           href="#"
@@ -74,25 +74,25 @@ function Header() {
           href="#"
           className="relative text-lg hover:text-purple-300 transition-colors duration-300 after:content-[''] after:absolute after:w-0 after:h-0.5 after:bg-purple-400 after:left-0 after:bottom-0 after:transition-all hover:after:w-full text-nowrap"
         >
-          <i class="bx bx-user-circle"></i> Avatar
+          <i class="bx bx-user-circle"></i>User
         </a>
         <a
           href="#"
           className="relative text-lg hover:text-purple-300 transition-colors duration-300 after:content-[''] after:absolute after:w-0 after:h-0.5 after:bg-purple-400 after:left-0 after:bottom-0 after:transition-all hover:after:w-full text-nowrap"
         >
-          <i class="bx bx-diamond"></i> Avatar
+          <i class="bx bx-diamond"></i> Dimonad
         </a>
         <a
           href="#"
           className="relative text-lg hover:text-purple-300 transition-colors duration-300 after:content-[''] after:absolute after:w-0 after:h-0.5 after:bg-purple-400 after:left-0 after:bottom-0 after:transition-all hover:after:w-full text-nowrap"
         >
-          <i class="bx bx-chevrons-up"></i> Avatar
+          <i class="bx bx-chevrons-up"></i> Level Up
         </a>
         <a
           href="#"
           className="relative text-lg hover:text-purple-300 transition-colors duration-300 after:content-[''] after:absolute after:w-0 after:h-0.5 after:bg-purple-400 after:left-0 after:bottom-0 after:transition-all hover:after:w-full text-nowrap"
         >
-          <i class="bx bx-store"></i> Avatar
+          <i class="bx bx-store"></i> Shop
         </a>
       </nav>
       <div className="flex flex-col gap-5 w-[100%] px-20">

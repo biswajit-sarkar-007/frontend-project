@@ -24,7 +24,7 @@ function Arena() {
             {/* Card background gradient */}
             <div className="absolute h-full w-full">
               <img src="/images/bento-card1.png" alt="" srcset="" />
-              <button className="absolute bottom-0 h-12 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-yellow-400 text-nowrap">
+              <button className="absolute bottom-0 h-12 w-full  bg-opacity-70 text-2xl font-bold hover:text-yellow-400 text-nowrap">
                 <i class="bx  bx-store-alt"></i> NFT STORE
               </button>
             </div>
